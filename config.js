@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'Bọn tớ chỉ muốn nói là',
     mess: 'Các cậu luôn là những đóa hoa trong mắt bọn tớ Và Chúc các bạn luôn xinh đẹp , đạt được mơ ước đỗ vào trường mà mình mơ ước',
     messDesc: 'Mong rằng bọn mình sẽ sớm gặp nhau để làm nồi lẩu nhó',
-    btnAccept: 'Okiiiii nha,haha',
+    btnAccept: 'Okiiiii nha haha',
     messLink: 'https://www.facebook.com/profile.php?id=100028462939686' 
 }
