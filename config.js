@@ -5,7 +5,7 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'happy women's day ',
+    title: 'happy women day ',
     desc: 'Các cậu có muốn nhận quà không ? ',
     btnYes: 'Không :3',
     btnNo: 'Có :))',
