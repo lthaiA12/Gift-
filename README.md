@@ -1,5 +1,6 @@
-# Tặng Crush
-## _Một điều nho nhỏ tỏ tình với crush_
+# Tặng các bạn nữ 12A12
+
+## _Một điều nho nhỏ nói với các bạn nữ 12A12
 
 Liên lạc: 
 [![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/nam.nodemy)
