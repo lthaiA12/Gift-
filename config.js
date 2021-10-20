@@ -1,19 +1,17 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Chào các bạn nữ 12A12 nha!',
+    introDesc: `Hôm nay là ngày 20-10 nên con trai
+    lớp 12A12 có món quà dành tặng cho các cậu`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'happy women day',
+    desc: 'Các cậu có muốn nhận quà không? ',
     btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    btnNo: 'Có :))',
+    question:'Trên thế giới hơn 7 tỉ người nhưng mà nụ cười của các bạn nữ A12 là xinh nhất',
+    btnReply: 'Tặng các bạn',
+    reply: 'Bọn tớ chỉ muốn nói là',
+    mess: 'Các cậu luôn là những đóa hoa trong mắt bọn tớ Và Chúc các bạn luôn xinh đẹp , đạt được mơ ước đỗ vào trường mà mình mơ ước',
+    messDesc: 'Mong rằng bọn mình sẽ sớm gặp nhau để làm nồi lẩu nhó.',
+    btnAccept: 'Okiiiii nha haha',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
