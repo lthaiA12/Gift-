@@ -10,7 +10,7 @@ const CONFIG = {
     question:'Ha ha Bị lừa rồi',
     btnReply: 'Bấm vào đây sẽ là món quà của tụi mình',
     reply: 'Bọn tớ chỉ muốn nói là',
-    mess: 'Nhân ngày 20/10 ngày thật đặc biệt , boy A12 chúc tất cả các bạn nữ luôn luôn hạnh phúc xinh đẹp và luôn có 1 sức khoẻ dồi dào nha !! ',
+    mess: 'Nhân ngày 20/10 ngày thật đặc biệt , boy A12 chúc tất cả các bạn nữ luôn luôn hạnh phúc xinh đẹp và luôn có 1 sức khoẻ dồi dào nha',
     messDesc: 'Mong rằng bọn mình sẽ sớm gặp nhau để làm 1 bữa liên hoành tráng nhó',
     btnAccept: 'Okiiiii nha haha',
     messLink: 'https://www.facebook.com/nguyennangvu2004' 
